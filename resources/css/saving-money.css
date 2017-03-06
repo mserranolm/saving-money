@@ -1,0 +1,33 @@
+@media (max-width: 900px) {
+  #title {
+    text:"Solo para dispositivos Mobile";
+  }
+}
+
+#title{
+    position: absolute;
+    margin-top: 1.1em;
+    width: 100%;
+    text-align: center;
+    color: #337ab7;
+    font-size: 19px;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #337ab7;
+}
+
+.navmenu-brand, .navbar-default .navbar-offcanvas .navmenu-brand, .navmenu-default .navmenu-brand, .navbar-default .navbar-offcanvas .navmenu-brand	 {
+    color: #337ab7;
+    background-color: transparent;
+}
+
+.navmenu-nav>.active>a, .navbar-default .navbar-offcanvas .navmenu-nav>.active>a, .navmenu-default .navmenu-nav>.active>a, .navbar-default .navbar-offcanvas .navmenu-nav>.active>a, .navmenu-default .navmenu-nav>.active>a, .navbar-default .navbar-offcanvas .navmenu-nav>.active>{
+    color: #337ab7 !important;
+    background-color: #e7e7e7;
+}
+
+.navmenu-nav>li>a, .navbar-default .navbar-offcanvas .navmenu-nav>li>a, .navmenu-default .navmenu-nav>li>a, .navbar-default .navbar-offcanvas .navmenu-nav>li>a {
+    color: #337ab7;
+    background-color: transparent;
+}
