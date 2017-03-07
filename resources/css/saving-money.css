@@ -1,9 +1,26 @@
 body {
-    font-family: 'Sofia';font-size: 22px;
+    font-family: 'Indie Flower', cursive;
 }
 
-#header-container{
-    background-color: #99c84a;
-    color: white;
+header{
+    background: #FFFAAE;
+    color: #5faee2;
+    padding: 1em 0.3em 1em 0.3em;
 }
+
+footer{
+    background: #FFFAAE;
+    color: #5faee2;
+}
+
+footer .blockquote-footer{
+    color: #5faee2 !important;
+}
+
+div .cuerpo{
+    background: #5faee2;
+    color: #FFFAAE;
+}
+
+
 
