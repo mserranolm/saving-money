@@ -2,7 +2,7 @@ body {
     font-family: 'Indie Flower', cursive;
 }
 
-header{
+.navbar{
     background: #FFFAAE;
     color: #5faee2;
     padding: 1em 0.3em 1em 0.3em;
