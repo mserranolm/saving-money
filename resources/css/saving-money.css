@@ -13,7 +13,7 @@ footer{
 
 .cuerpo{
     background: #CCCCCC;
-    min-height:100vmax !important;
+    min-height:92vmax !important;
 }
 
 .navbar {
@@ -24,6 +24,9 @@ footer{
     background-color: #FFFAAE;
 }
 
+.cuerpo .col-12 .col-lg-12{
+    min-height:50vmax !important;
+}
 
 
 
