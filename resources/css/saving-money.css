@@ -10,16 +10,10 @@ header{
 
 footer{
     background: #FFFAAE;
-    color: #5faee2;
-}
-
-footer .blockquote-footer{
-    color: #5faee2 !important;
 }
 
 div .cuerpo{
-    background: #5faee2;
-    color: #FFFAAE;
+    background: #CCCCCC;
 }
 
 .navbar {
@@ -27,7 +21,7 @@ div .cuerpo{
 }
 
 .bg-faded {
-    background-color: #5faee2;
+    background-color: #FFFAAE;
 }
 
 
