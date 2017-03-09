@@ -5,15 +5,15 @@ body {
 header{
     background: #FFFAAE;
     color: #5faee2;
-    padding: 0.8em 0.3em 0.8em 0.3em;
 }
 
 footer{
     background: #FFFAAE;
 }
 
-div .cuerpo{
+.cuerpo{
     background: #CCCCCC;
+    min-height:0px !important;
 }
 
 .navbar {
